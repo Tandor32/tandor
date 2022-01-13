@@ -1,0 +1,2 @@
+# tandor
+Termux
